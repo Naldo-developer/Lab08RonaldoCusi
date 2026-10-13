@@ -1,0 +1,49 @@
+@Lab08RonaldoCusi_HostAddress = http://localhost:5058
+
+### Ejercicio 1
+GET {{Lab08RonaldoCusi_HostAddress}}/api/Clients/ejercicio1?nombre=Juan
+Accept: application/json
+
+### Ejercicio 2
+GET {{Lab08RonaldoCusi_HostAddress}}/api/Products/ejercicio2?precio=20
+Accept: application/json
+
+### Ejercicio 3
+GET {{Lab08RonaldoCusi_HostAddress}}/api/OrderDetails/ejercicio3?orderId=1
+Accept: application/json
+
+### Ejercicio 4
+GET {{Lab08RonaldoCusi_HostAddress}}/api/OrderDetails/ejercicio4?orderId=1
+Accept: application/json
+
+### Ejercicio 5
+GET {{Lab08RonaldoCusi_HostAddress}}/api/Products/ejercicio5
+Accept: application/json
+
+### Ejercicio 6
+GET {{Lab08RonaldoCusi_HostAddress}}/api/Orders/ejercicio6?fecha=2025-05-01
+Accept: application/json
+
+### Ejercicio 7
+GET {{Lab08RonaldoCusi_HostAddress}}/api/Products/ejercicio7
+Accept: application/json
+
+### Ejercicio 8
+GET {{Lab08RonaldoCusi_HostAddress}}/api/Products/ejercicio8
+Accept: application/json
+
+### Ejercicio 9
+GET {{Lab08RonaldoCusi_HostAddress}}/api/Orders/ejercicio9
+Accept: application/json
+
+### Ejercicio 10
+GET {{Lab08RonaldoCusi_HostAddress}}/api/OrderDetails/ejercicio10
+Accept: application/json
+
+### Ejercicio 11
+GET {{Lab08RonaldoCusi_HostAddress}}/api/Orders/ejercicio11?clientId=1
+Accept: application/json
+
+### Ejercicio 12
+GET {{Lab08RonaldoCusi_HostAddress}}/api/Orders/ejercicio12?productId=2
+Accept: application/json
